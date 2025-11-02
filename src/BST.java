@@ -73,8 +73,8 @@ public class BST {
     private void deleteRoot() {
         if (this.left.isEmpty() && this.right.isEmpty()) {
             this.root = null;
-            this.left = null;
-            this.right = null;
+            this.left = new BST();
+            this.right = new BST();
         } else if (this.left.isEmpty()) {
             this.root = this.right.root;
             this.left = this.right.left;
