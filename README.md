@@ -90,31 +90,31 @@ https://github.com/CSC207-2025F-UofT/lab2-multiset-adt.
 
 ---
 
-- [ ] Once your team has this set of Issues, each member should be assigned an Issue to start working on.
+- [X] Once your team has this set of Issues, each member should be assigned an Issue to start working on.
 
 ---
 
-- [ ] On a branch, locally develop the code such that your assigned Issue is completed.
+- [X] On a branch, locally develop the code such that your assigned Issue is completed. // skipping this
 
 ---
 
-- [ ] Push your **branch** to the remote repository and create a PR.
+- [X] Push your **branch** to the remote repository and create a PR.
 
 ---
 
-- [ ] When someone on your team has made a PR, a subset of your team should take the time
+- [X] When someone on your team has made a PR, a subset of your team should take the time
   to review it. You can pull their branch from the remote repository and try running the code locally
   and also review the code on GitHub. Practice giving both verbal feedback (in person) and written feedback
   (on GitHub) during the lab today.
 
 ---
 
-- [ ] Once everyone has made a successful PR and had it merged in, your team should continue
+- [X] Once everyone has made a successful PR and had it merged in, your team should continue
   working to close more of the Issues that you opened. This will help you practice the branch and merge workflow.
 
 ---
 
-- [ ] Towards the end of the lab, your team should take some time to reflect on what worked well
+- [X] Towards the end of the lab, your team should take some time to reflect on what worked well
   and where you encountered difficulty as you worked on the code and divided up tasks between members of your group.
 
 ---
